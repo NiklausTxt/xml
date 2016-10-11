@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user userName="user1">
+    <score>30</score>
+    <questions>
+        <question>
+            <answer>i am fine!</answer>
+            <author>user1</author>
+            <id>1</id>
+            <isSolve>SOLVED</isSolve>
+            <ques>how are you</ques>
+        </question>
+        <question>
+            <answer>i am 18 years old.</answer>
+            <author>user1</author>
+            <id>2</id>
+            <isSolve>SOLVED</isSolve>
+            <ques>how old are you</ques>
+        </question>
+        <question>
+            <answer>thanks</answer>
+            <author>user1</author>
+            <id>3</id>
+            <isSolve>SOLVED</isSolve>
+            <ques>you are beautiful ?</ques>
+        </question>
+    </questions>
+</user>
